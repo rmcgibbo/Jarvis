@@ -1,0 +1,6 @@
+[submodule "lib/Adafruit_MQTT_Library"]
+	path = lib/Adafruit_MQTT_Library
+	url = git@github.com:adafruit/Adafruit_MQTT_Library.git
+[submodule "lib/Ticker"]
+	path = lib/Ticker
+	url = git@github.com:sstaub/Ticker.git
